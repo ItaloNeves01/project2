@@ -1,0 +1,18 @@
+.head p{
+    font-size: 25px;
+    text-align: center;
+}
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 5px;
+}
+
+button{
+    border: none;
+    background-color: transparent;
+    font-size: 20px;
+    border: solid 1px;
+    border-radius: 4px;
+}
